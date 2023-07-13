@@ -12,6 +12,8 @@ Unity v 2021.3.19.f1
 
 Unity AR Foundation-AR Core
 
+Built for 2800x1752 resolution in landscape orientation
+
 ## Screenshots
 
 ![Screenshot 1](Screenshots/Screen01.png)
